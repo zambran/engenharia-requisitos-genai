@@ -43,7 +43,8 @@
 ### Palestrantes
 - "Gostaria de consultar a lista de participantes inscritos em minhas atividades."
 
- ## 4. Observações Durante as entrevistas, alguns pontos permanecem sem definição e deverão ser analisados.
+ ## 4. Observações
+ Durante as entrevistas, alguns pontos permanecem sem definição e deverão ser analisados.
  - Não foi definido até quando o participante poderá cancelar sua inscrição.
  - Não está claro em quais situações haverá reembolso.
  - Não foi informado como funcionará a lista de espera.
